@@ -7,11 +7,13 @@ I'm a developer passionate about **softwares, AI, creativity tools.
 ---
 
 
-### 🚀 What I'm Building
+### 🚀 What I'm Exploring
 
-- 🧠 **[Promptly](#)** — an AI prompt-optimization studio that enhances, validates, and humanizes LLM instructions  
-- 💬 **[HumanLiker](https://github.com/MaxonT/HumanLiker)** — a local AI writer that transforms text into authentic, emotionally resonant language  
-- 🕸️ **MeetMesh** — a real-time mesh for human coordination and AI-assisted scheduling  
+I'm still figuring out which ideas are worth taking further. These projects are some of my experiments with AI and everyday tools:
+
+- 📚 **[QuizAll](https://github.com/MaxonT/quizall)** — turn notes, documents, or YouTube videos into practice quizzes and review notes.
+- 🧠 **[Promptly](https://github.com/MaxonT/promptly)** — turn a rough idea into a clearer AI prompt through questions and revisions.
+- 🪞 **[Prompt Mirror](https://github.com/MaxonT/prompt-mirror)** — collect and visualize AI prompts to look back at how you use AI.
 
 ---
 
