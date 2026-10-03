@@ -13,7 +13,6 @@ I'm still figuring out which ideas are worth taking further. These projects are 
 
 - 📚 **[QuizAll](https://github.com/MaxonT/quizall)** — turn notes, documents, or YouTube videos into practice quizzes and review notes.
 - 🧠 **[Promptly](https://github.com/MaxonT/promptly)** — turn a rough idea into a clearer AI prompt through questions and revisions.
-- 🪞 **[Prompt Mirror](https://github.com/MaxonT/prompt-mirror)** — collect and visualize AI prompts to look back at how you use AI.
 
 ---
 
