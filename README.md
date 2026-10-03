@@ -9,10 +9,12 @@ I'm a developer passionate about **softwares, AI, creativity tools.
 
 ### 🚀 What I'm Exploring
 
-I'm still figuring out which ideas are worth taking further. These projects are some of my experiments with AI and everyday tools:
+I'm exploring small AI tools for studying and clearer communication. These are the two projects I'm working on:
 
-- 📚 **[QuizAll](https://github.com/MaxonT/quizall)** — turn notes, documents, or YouTube videos into practice quizzes and review notes.
-- 🧠 **[Promptly](https://github.com/MaxonT/promptly)** — turn a rough idea into a clearer AI prompt through questions and revisions.
+- 📚 **[QuizAll](https://github.com/MaxonT/quizall)** — turn study materials into a learning plan, practice quizzes, and review notes.
+- 🧠 **[Promptly](https://github.com/MaxonT/promptly)** — rewrite a rough request into a clearer AI prompt while preserving its intent.
+
+Both are open source and can be self-hosted with your own API keys.
 
 ---
 
